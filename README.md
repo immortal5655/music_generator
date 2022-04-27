@@ -1,0 +1,2 @@
+# music_generator
+使用lstm通过seed生成一段美妙的音乐

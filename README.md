@@ -14,13 +14,13 @@
 ### 2.数据集下载地址
 https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl
 
-### 2.已生成的旋律
+### 3.已生成的旋律
 
 `mel.mid`          `mel1.mid`          `mel2.mid `
 
 https://drive.google.com/file/d/18RC0ysImnqNiOHtrKBH9624xW2tlQc8M/view?usp=sharing
 
-### 3.训练好的模型
+### 4.训练好的模型
 
 https://drive.google.com/file/d/1zK4JJhLRghTdCVmDl0EfNT5Nwe8gLdZR/view?usp=sharing
 
